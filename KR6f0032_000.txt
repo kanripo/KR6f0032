@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文殊師利所說不思議佛境界經
+#+DATE: 2015-08-30 20:01:24.184645
+#+PROPERTY: JUAN 0
