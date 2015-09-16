@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:23.963585
+#+DATE: 2015-08-30 20:01:25.832775
 #+TITLE: 文殊師利所說不思議佛境界經
 #+PROPERTY: CBETA_ID T12n0340
 #+PROPERTY: ID KR6f0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 340
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0032_T_001-0108a> 
 #+PROPERTY: JUAN 1
 ¶
-No.340[No.310(35)]¶
-
- 《文殊師利所說不思議佛境界經》¶
+No. 340 [No. 310(35)]¶
+《文殊師利所說不思議佛境界經》¶
 卷上¶
 ¶
 唐天竺三藏菩提流志奉　詔譯¶
