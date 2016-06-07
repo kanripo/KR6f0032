@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:23.992831
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:56
 #+TITLE: 文殊師利所說不思議佛境界經
 #+PROPERTY: CBETA_ID T12n0340
 #+PROPERTY: ID KR6f0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 340
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0032_T_002-0111b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《文殊師利所說不思議佛境界經》¶
+《文殊師利所說不思議佛境界經》¶
 卷下¶
 ¶
 唐天竺三藏菩提流志奉　詔譯¶
@@ -223,7 +222,7 @@
 就三十七種菩提分等所有善法，證於諸佛¶
 無上菩提。云何速成菩提分法？謂諸菩薩以¶
 不放逸故，修四念處不經勤苦疾得圓滿。云¶
-何修耶？謂觀身處無所有；觀察處無所有；¶
+何修耶？謂觀身處無所有；觀受處無所有；¶
 觀心處無所有；觀法處無所有。於一切法皆¶
 無所得，如是名為修四念處。又諸菩薩以不¶
 放逸故，修四正勤疾得圓滿。云何修習？謂諸¶
