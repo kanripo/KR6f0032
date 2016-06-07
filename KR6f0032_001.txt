@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:25.832775
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:56
 #+TITLE: 文殊師利所說不思議佛境界經
 #+PROPERTY: CBETA_ID T12n0340
 #+PROPERTY: ID KR6f0032
